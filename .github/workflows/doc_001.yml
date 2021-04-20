@@ -1,19 +1,16 @@
-name: Update GitHub Profile Page
-on: [push]
+name: Waka Readme
 
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
-  gadpp_job:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    name: Update GitHub Profile Page
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: GADPP
-        uses: umutphp/github-action-dynamic-profile-page@v2
-        id: gadpp
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+      - uses: anmol098/waka-readme-stats@master
         with:
-          github-username: 'AbirHasan2005'
-          user-email: 'hackitabirhasan@gmail.com'
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
