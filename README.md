@@ -21,8 +21,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005&" alt="AbirHasan2005" /></p>
 
-<!--START_SECTION:activity-->
 
+### :zap: Recent Activities:
+
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 [![Update README](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml)
