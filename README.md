@@ -21,8 +21,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005&" alt="AbirHasan2005" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## Follow on:
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
