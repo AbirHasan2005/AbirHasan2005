@@ -25,6 +25,8 @@
 
 <!--END_SECTION:activity-->
 
+[![Update README](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml)
+
 ## Follow on:
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
