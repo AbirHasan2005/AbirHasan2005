@@ -25,11 +25,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/2) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-2. ❌ Closed PR [#3](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/3) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Pyro-FileStreamBot/issues/4) in [AbirHasan2005/Pyro-FileStreamBot](https://github.com/AbirHasan2005/Pyro-FileStreamBot)
-4. 🎉 Merged PR [#4](https://github.com/AbirHasan2005/Pyro-FileStreamBot/pull/4) in [AbirHasan2005/Pyro-FileStreamBot](https://github.com/AbirHasan2005/Pyro-FileStreamBot)
-5. ❌ Closed PR [#2](https://github.com/Discovery-Projects/Image-UploadBot/pull/2) in [Discovery-Projects/Image-UploadBot](https://github.com/Discovery-Projects/Image-UploadBot)
+1. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/1) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+2. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/3) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+3. 🗣 Commented on [#3](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/3) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+4. ❌ Closed PR [#2](https://github.com/AbirHasan2005/YouTube_Views_Bot/pull/2) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+5. ❌ Closed PR [#2](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/2) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
 [![Update README](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml)
