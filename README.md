@@ -25,11 +25,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/1) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
-2. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/3) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
-3. 🗣 Commented on [#3](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/3) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
-4. ❌ Closed PR [#2](https://github.com/AbirHasan2005/YouTube_Views_Bot/pull/2) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
-5. ❌ Closed PR [#2](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/2) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+3. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/1) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+4. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/3) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+5. 🗣 Commented on [#3](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/3) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
 <!--END_SECTION:activity-->
 
 [![Update README](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml)
