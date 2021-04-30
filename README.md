@@ -39,10 +39,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/EverythingSuckz/TG-FileStreamBot/issues/3) in [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot)
-2. 🎉 Merged PR [#8](https://github.com/AbirHasan2005/Watermark-Bot/pull/8) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-3. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-5. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/YouTube_Views_Bot/issues/1) in [AbirHasan2005/YouTube_Views_Bot](https://github.com/AbirHasan2005/YouTube_Views_Bot)
+2. 🗣 Commented on [#3](https://github.com/EverythingSuckz/TG-FileStreamBot/issues/3) in [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot)
+3. 🎉 Merged PR [#8](https://github.com/AbirHasan2005/Watermark-Bot/pull/8) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+4. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 [![Update README](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml)
