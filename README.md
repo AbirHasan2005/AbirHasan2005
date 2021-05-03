@@ -38,11 +38,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/annihilatorrrr/devilsmusic/pull/1) in [annihilatorrrr/devilsmusic](https://github.com/annihilatorrrr/devilsmusic)
-2. 🗣 Commented on [#3](https://github.com/EverythingSuckz/TG-FileStreamBot/issues/3) in [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot)
+1. 🎉 Merged PR [#9](https://github.com/AbirHasan2005/Watermark-Bot/pull/9) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+2. 💪 Opened PR [#1](https://github.com/annihilatorrrr/devilsmusic/pull/1) in [annihilatorrrr/devilsmusic](https://github.com/annihilatorrrr/devilsmusic)
 3. 🗣 Commented on [#3](https://github.com/EverythingSuckz/TG-FileStreamBot/issues/3) in [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot)
-4. 🎉 Merged PR [#8](https://github.com/AbirHasan2005/Watermark-Bot/pull/8) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/Forward-Client/issues/1) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. 🗣 Commented on [#3](https://github.com/EverythingSuckz/TG-FileStreamBot/issues/3) in [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot)
+5. 🎉 Merged PR [#8](https://github.com/AbirHasan2005/Watermark-Bot/pull/8) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
 <!--END_SECTION:activity-->
 
 [![Update README](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AbirHasan2005/AbirHasan2005/actions/workflows/update-readme.yml)
