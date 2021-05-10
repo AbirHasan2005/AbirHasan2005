@@ -17,7 +17,7 @@
     - Emglish
 - [More on Telegram](https://t.me/AbirHasan2005/3)
 
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+[![Profile Views]("https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat")](https://github.com/AbirHasan2005)
 
 <p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://github-profile-trophy.vercel.app/?username=AbirHasan2005" alt="AbirHasan2005" /></a> </p>
 
