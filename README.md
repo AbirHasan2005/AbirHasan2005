@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Abir Hasan</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
 
 ## About Meh:
 - Currently learning Python, JavaScript & Bash.
@@ -17,7 +17,7 @@
     - Emglish
 - [More on Telegram](https://t.me/AbirHasan2005/3)
 
-[![Profile Views]("https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat")](https://github.com/AbirHasan2005)
+<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
 
 <p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://github-profile-trophy.vercel.app/?username=AbirHasan2005" alt="AbirHasan2005" /></a> </p>
 
