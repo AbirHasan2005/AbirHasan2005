@@ -51,8 +51,8 @@
 1. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
 2. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
 3. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
-4. 🎉 Merged PR [#10](https://github.com/AbirHasan2005/Watermark-Bot/pull/10) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. 🗣 Commented on [#10](https://github.com/AbirHasan2005/Watermark-Bot/issues/10) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+4. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
+5. 🎉 Merged PR [#10](https://github.com/AbirHasan2005/Watermark-Bot/pull/10) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
 <!--END_SECTION:activity-->
 
 ## Follow on:
