@@ -48,8 +48,8 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
-2. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
+1. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/3) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
+2. 🗣 Commented on [#3](https://github.com/AbirHasan2005/Torrent-Search-Bot/issues/3) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
 3. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
 4. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
 5. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
