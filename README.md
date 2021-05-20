@@ -48,11 +48,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
-2. 🗣 Commented on [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/issues/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
-3. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/15) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. ❌ Closed PR [#11](https://github.com/AbirHasan2005/Watermark-Bot/pull/11) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/fsociety/issues/1) in [AbirHasan2005/fsociety](https://github.com/AbirHasan2005/fsociety)
+1. 🎉 Merged PR [#3](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/3) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
+2. 🗣 Commented on [#3](https://github.com/Discovery-Projects/DMCA-Delete-Bot/issues/3) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
+3. 🎉 Merged PR [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
+4. 🗣 Commented on [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/issues/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
+5. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/15) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
 ## Follow on:
