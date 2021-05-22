@@ -48,11 +48,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/3) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
-2. 🗣 Commented on [#3](https://github.com/Discovery-Projects/DMCA-Delete-Bot/issues/3) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
-3. 🎉 Merged PR [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
-4. 🗣 Commented on [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/issues/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
-5. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/15) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/ShellPhish/issues/13) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. 🗣 Commented on [#13](https://github.com/AbirHasan2005/ShellPhish/issues/13) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. 🎉 Merged PR [#3](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/3) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
+4. 🗣 Commented on [#3](https://github.com/Discovery-Projects/DMCA-Delete-Bot/issues/3) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
+5. 🎉 Merged PR [#1](https://github.com/Discovery-Projects/DMCA-Delete-Bot/pull/1) in [Discovery-Projects/DMCA-Delete-Bot](https://github.com/Discovery-Projects/DMCA-Delete-Bot)
 <!--END_SECTION:activity-->
 
 ## Follow on:
