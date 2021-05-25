@@ -48,11 +48,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/16) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-2. ❗️ Closed issue [#5](https://github.com/AbirHasan2005/TelegramScraper/issues/5) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-3. 🗣 Commented on [#5](https://github.com/AbirHasan2005/TelegramScraper/issues/5) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/ShellPhish/issues/13) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-5. 🗣 Commented on [#13](https://github.com/AbirHasan2005/ShellPhish/issues/13) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+1. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/ShellPhish/pull/14) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. 🗣 Commented on [#14](https://github.com/AbirHasan2005/ShellPhish/issues/14) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. 🗣 Commented on [#16](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/16) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. ❗️ Closed issue [#5](https://github.com/AbirHasan2005/TelegramScraper/issues/5) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. 🗣 Commented on [#5](https://github.com/AbirHasan2005/TelegramScraper/issues/5) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 ## Follow on:
