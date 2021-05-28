@@ -48,11 +48,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/2) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-2. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/2) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-3. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/ShellPhish/pull/14) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-4. 🗣 Commented on [#14](https://github.com/AbirHasan2005/ShellPhish/issues/14) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-5. 🗣 Commented on [#16](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/16) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. 🎉 Merged PR [#4](https://github.com/AbirHasan2005/AbirHasan2005/pull/4) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+2. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/AbirHasan2005/pull/3) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+3. 🗣 Commented on [#3](https://github.com/AbirHasan2005/AbirHasan2005/issues/3) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/TelegramScraper/issues/6) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/2) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
 <!--END_SECTION:activity-->
 
 ## Follow on:
