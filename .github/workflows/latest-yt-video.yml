@@ -14,4 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+          committer_username: "YouTube-Video-Updater"
+          commit_message: "Updated Latest YouTube Videos 🎥"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCmnA0xMXzSyU9qbCQAG7bJQ"
