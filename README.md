@@ -48,11 +48,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
-2. ❗️ Closed issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
-3. ❗️ Opened issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
-4. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/AbirHasan2005/pull/5) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
-5. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/1) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+1. 🗣 Commented on [#7](https://github.com/AbirHasan2005/TelegramScraper/issues/7) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+2. 🗣 Commented on [#6](https://github.com/AbirHasan2005/TelegramScraper/issues/6) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. ❗️ Reopened issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+4. ❗️ Closed issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+5. ❗️ Opened issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
 <!--END_SECTION:activity-->
 
 ## Follow on:
