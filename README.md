@@ -61,6 +61,14 @@
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![Nahid Hasan Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
+
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://m.youtube.com/channel/UCmnA0xMXzSyU9qbCQAG7bJQ/videos) 
+
 ## Support Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Linux%20Repositories-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
