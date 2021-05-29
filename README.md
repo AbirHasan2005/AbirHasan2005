@@ -87,8 +87,11 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
+[![Make Google Console Project's Credentials JSON & Token Pickle File | Discovery Projects](https://freshidea.com/jonah/app/youtube-card/?id=B0_JY5QuWuE&title=FFFFFF)](https://www.youtube.com/watch?v=B0_JY5QuWuE "Make Google Console Project's Credentials JSON & Token Pickle File | Discovery Projects")
+[![Make Your Own Telegram Files Store Bot | Discovery Projects](https://freshidea.com/jonah/app/youtube-card/?id=hHu2RaePhwI&title=FFFFFF)](https://www.youtube.com/watch?v=hHu2RaePhwI "Make Your Own Telegram Files Store Bot | Discovery Projects")
+[![Make Python3.6 MongoDB Access URI Free | Discovery Projects](https://freshidea.com/jonah/app/youtube-card/?id=aXlF80Cn7iU&title=FFFFFF)](https://www.youtube.com/watch?v=aXlF80Cn7iU "Make Python3.6 MongoDB Access URI Free | Discovery Projects")
+[![Make Own Telegram Video Compressor HEVC Bot | Discovery Projects](https://freshidea.com/jonah/app/youtube-card/?id=gMRsSqaUkio&title=FFFFFF)](https://www.youtube.com/watch?v=gMRsSqaUkio "Make Own Telegram Video Compressor HEVC Bot | Discovery Projects")
+[![Make Telegram Video Watermark Bot | Discovery Projects](https://freshidea.com/jonah/app/youtube-card/?id=A7wnaKMHpvU&title=FFFFFF)](https://www.youtube.com/watch?v=A7wnaKMHpvU "Make Telegram Video Watermark Bot | Discovery Projects")<!-- YOUTUBE:END -->
 - [More Videos](https://m.youtube.com/channel/UCmnA0xMXzSyU9qbCQAG7bJQ/videos) 
 
 ### Contribution Graph:
