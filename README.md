@@ -48,11 +48,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/2) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
-2. 🗣 Commented on [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
-3. 🗣 Commented on [#7](https://github.com/AbirHasan2005/TelegramScraper/issues/7) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/TelegramScraper/issues/6) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. ❗️ Reopened issue [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+1. ❌ Closed PR [#3](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/3) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+2. 🎉 Merged PR [#2](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/2) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+3. 🗣 Commented on [#165](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/issues/165) in [ParveenBhadooOfficial/Google-Drive-Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+4. 🗣 Commented on [#7](https://github.com/AbirHasan2005/TelegramScraper/issues/7) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. 🗣 Commented on [#6](https://github.com/AbirHasan2005/TelegramScraper/issues/6) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 ## Follow on:
