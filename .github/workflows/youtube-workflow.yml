@@ -15,7 +15,3 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCmnA0xMXzSyU9qbCQAG7bJQ"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          max_post_count: 5
-          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId&title=FFFFFF)]($url \"$title\")"
-          committer_email: "hackitabirhasan@gmail.com"
