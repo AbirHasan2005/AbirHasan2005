@@ -96,7 +96,12 @@
 - [More Videos](https://m.youtube.com/channel/UCmnA0xMXzSyU9qbCQAG7bJQ/videos) 
 
 ### Contribution Graph:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005&" alt="AbirHasan2005" /></p>
+
+<p align="center">
+  <a href="https://github.com/AbirHasan2005">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005#version3"/>
+  </a>
+</p>
 <a href="https://github.com/AbirHasan2005"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbirHasan2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### Follow on:
