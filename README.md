@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/2) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-2. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Forward-Client/pull/3) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 💪 Opened PR [#3](https://github.com/AbirHasan2005/Forward-Client/pull/3) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/2) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-5. ❌ Closed PR [#3](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/3) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+1. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Forward-Client/issues/4) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+3. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/2) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+4. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Forward-Client/pull/3) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. 💪 Opened PR [#3](https://github.com/AbirHasan2005/Forward-Client/pull/3) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 
