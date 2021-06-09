@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Forward-Client/issues/5) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-3. 🗣 Commented on [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Forward-Client/issues/4) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-5. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+1. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/Message-Manager-Bot/pull/1) in [AbirHasan2005/Message-Manager-Bot](https://github.com/AbirHasan2005/Message-Manager-Bot)
+2. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Manager-Bot/issues/1) in [AbirHasan2005/Message-Manager-Bot](https://github.com/AbirHasan2005/Message-Manager-Bot)
+3. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Forward-Client/issues/5) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+5. 🗣 Commented on [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 
