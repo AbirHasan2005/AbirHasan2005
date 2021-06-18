@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/1) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-2. 🗣 Commented on [#1](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/1) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-3. 🎉 Merged PR [#18](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/18) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. 🗣 Commented on [#18](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/18) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-5. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoCompress/issues/9) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+1. ❗️ Closed issue [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+2. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+3. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/1) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/1) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+5. 🎉 Merged PR [#18](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/18) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
 
