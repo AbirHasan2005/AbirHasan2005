@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/AbirHasan2005/TelegramScraper/issues/9) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-2. 🎉 Merged PR [#10](https://github.com/AbirHasan2005/VideoCompress/pull/10) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-3. ❗️ Closed issue [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-4. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-5. ❗️ Closed issue [#1](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/1) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+1. ❗️ Closed issue [#9](https://github.com/AbirHasan2005/TelegramScraper/issues/9) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+2. 🗣 Commented on [#9](https://github.com/AbirHasan2005/TelegramScraper/issues/9) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. 🗣 Commented on [#9](https://github.com/AbirHasan2005/TelegramScraper/issues/9) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+4. 🎉 Merged PR [#10](https://github.com/AbirHasan2005/VideoCompress/pull/10) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. ❗️ Closed issue [#4](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/4) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
 <!--END_SECTION:activity-->
 
 
