@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/VideoCompress/pull/15) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-2. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Save-Group/pull/3) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
-3. ❗️ Closed issue [#17](https://github.com/AbirHasan2005/ShellPhish/issues/17) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-4. 🗣 Commented on [#17](https://github.com/AbirHasan2005/ShellPhish/issues/17) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-5. 🎉 Merged PR [#2](https://github.com/AbirHasan2005/Save-Group/pull/2) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
+1. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Rename-Bot/issues/1) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+2. ❌ Closed PR [#1](https://github.com/AbirHasan2005/Rename-Bot/pull/1) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+3. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/VideoCompress/pull/15) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+4. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Save-Group/pull/3) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
+5. ❗️ Closed issue [#17](https://github.com/AbirHasan2005/ShellPhish/issues/17) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
 <!--END_SECTION:activity-->
 
 
