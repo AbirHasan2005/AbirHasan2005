@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Rename-Bot/issues/2) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Rename-Bot/issues/1) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-3. ❌ Closed PR [#1](https://github.com/AbirHasan2005/Rename-Bot/pull/1) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-4. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/VideoCompress/pull/15) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-5. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Save-Group/pull/3) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
+1. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/Rename-Bot/issues/2) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+2. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Rename-Bot/issues/2) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+3. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Rename-Bot/issues/1) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+4. ❌ Closed PR [#1](https://github.com/AbirHasan2005/Rename-Bot/pull/1) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+5. 🎉 Merged PR [#15](https://github.com/AbirHasan2005/VideoCompress/pull/15) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 <!--END_SECTION:activity-->
 
 
