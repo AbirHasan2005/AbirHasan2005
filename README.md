@@ -74,11 +74,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+1. 🗣 Commented on [#11](https://github.com/AbirHasan2005/TelegramScraper/issues/11) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 2. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 3. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. 🗣 Commented on [#21](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/21) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Manager-Bot/issues/1) in [AbirHasan2005/Message-Manager-Bot](https://github.com/AbirHasan2005/Message-Manager-Bot)
+4. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 
