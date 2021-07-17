@@ -76,9 +76,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 2. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 🗣 Commented on [#21](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/21) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Manager-Bot/issues/1) in [AbirHasan2005/Message-Manager-Bot](https://github.com/AbirHasan2005/Message-Manager-Bot)
-5. 🗣 Commented on [#2](https://github.com/AbirHasan2005/OPRecon/issues/2) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
+3. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. 🗣 Commented on [#21](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/21) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Manager-Bot/issues/1) in [AbirHasan2005/Message-Manager-Bot](https://github.com/AbirHasan2005/Message-Manager-Bot)
 <!--END_SECTION:activity-->
 
 
