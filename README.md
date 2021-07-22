@@ -74,10 +74,10 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Save-Group/issues/5) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
-2. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 🗣 Commented on [#17](https://github.com/AbirHasan2005/VideoCompress/issues/17) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-4. 🗣 Commented on [#11](https://github.com/AbirHasan2005/TelegramScraper/issues/11) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+1. 🗣 Commented on [#18](https://github.com/AbirHasan2005/VideoCompress/issues/18) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+2. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Save-Group/issues/5) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
+3. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. 🗣 Commented on [#17](https://github.com/AbirHasan2005/VideoCompress/issues/17) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 5. 🗣 Commented on [#11](https://github.com/AbirHasan2005/TelegramScraper/issues/11) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
