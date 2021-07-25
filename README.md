@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/AbirHasan2005/Rename-Bot/issues/4) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Rename-Bot/issues/4) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-3. 🗣 Commented on [#18](https://github.com/AbirHasan2005/VideoCompress/issues/18) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-4. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Save-Group/issues/5) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
-5. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Forward-Client/issues/7) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+1. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Rename-Bot/issues/5) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+2. ❗️ Closed issue [#4](https://github.com/AbirHasan2005/Rename-Bot/issues/4) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+3. 🗣 Commented on [#4](https://github.com/AbirHasan2005/Rename-Bot/issues/4) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+4. 🗣 Commented on [#18](https://github.com/AbirHasan2005/VideoCompress/issues/18) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Save-Group/issues/5) in [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group)
 <!--END_SECTION:activity-->
 
 
