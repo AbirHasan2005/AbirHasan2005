@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/AbirHasan2005/Rename-Bot/issues/5) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/6) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-3. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/pull/5) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-4. 🗣 Commented on [#2](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/2) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-5. 🗣 Commented on [#5](https://github.com/AbirHasan2005/Rename-Bot/issues/5) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+1. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/Footer-Bot/pull/1) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
+2. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Footer-Bot/issues/1) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
+3. ❗️ Closed issue [#5](https://github.com/AbirHasan2005/Rename-Bot/issues/5) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/6) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+5. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/pull/5) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
 <!--END_SECTION:activity-->
 
 
