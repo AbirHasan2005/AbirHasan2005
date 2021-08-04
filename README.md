@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/FayasNoushad/PyPi-Bot/pull/1) in [FayasNoushad/PyPi-Bot](https://github.com/FayasNoushad/PyPi-Bot)
-2. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/Footer-Bot/issues/2) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
-3. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Footer-Bot/issues/2) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
-4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/1) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-5. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/Footer-Bot/pull/1) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
+1. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/Watermark-Bot/pull/14) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+2. 💪 Opened PR [#1](https://github.com/FayasNoushad/PyPi-Bot/pull/1) in [FayasNoushad/PyPi-Bot](https://github.com/FayasNoushad/PyPi-Bot)
+3. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/Footer-Bot/issues/2) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
+4. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Footer-Bot/issues/2) in [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot)
+5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/1) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
 <!--END_SECTION:activity-->
 
 
