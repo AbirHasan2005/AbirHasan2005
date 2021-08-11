@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-2. 🗣 Commented on [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-3. 🎉 Merged PR [#16](https://github.com/AbirHasan2005/Watermark-Bot/pull/16) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-4. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/CoronaStats/pull/1) in [AbirHasan2005/CoronaStats](https://github.com/AbirHasan2005/CoronaStats)
-5. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/Watermark-Bot/pull/14) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+1. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/ShellPhish/issues/20) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. ❗️ Closed issue [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. 🗣 Commented on [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+4. 🎉 Merged PR [#16](https://github.com/AbirHasan2005/Watermark-Bot/pull/16) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+5. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/CoronaStats/pull/1) in [AbirHasan2005/CoronaStats](https://github.com/AbirHasan2005/CoronaStats)
 <!--END_SECTION:activity-->
 
 
