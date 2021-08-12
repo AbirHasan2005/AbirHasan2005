@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/13) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-2. 🗣 Commented on [#13](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/13) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/ShellPhish/issues/20) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-4. ❗️ Closed issue [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. 🗣 Commented on [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+1. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/7) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
+2. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/13) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+3. 🗣 Commented on [#13](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/13) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/ShellPhish/issues/20) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+5. ❗️ Closed issue [#8](https://github.com/AbirHasan2005/TelegramScraper/issues/8) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 
