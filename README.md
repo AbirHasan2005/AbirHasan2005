@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AbirHasan2005/OPRecon/issues/3) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
-2. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Rename-Bot/issues/6) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+1. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Watermark-Bot/issues/17) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+2. 🗣 Commented on [#3](https://github.com/AbirHasan2005/OPRecon/issues/3) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
 3. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Rename-Bot/issues/6) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-4. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/7) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
-5. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/13) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Rename-Bot/issues/6) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+5. 🗣 Commented on [#7](https://github.com/AbirHasan2005/Cloud-UPManager-Bot/issues/7) in [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot)
 <!--END_SECTION:activity-->
 
 
