@@ -77,10 +77,10 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/AbirHasan2005/ShellPhish/issues/15) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-2. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Watermark-Bot/issues/17) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-3. 🗣 Commented on [#3](https://github.com/AbirHasan2005/OPRecon/issues/3) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
-4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Rename-Bot/issues/6) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+1. ❌ Closed PR [#23](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/23) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. 🗣 Commented on [#15](https://github.com/AbirHasan2005/ShellPhish/issues/15) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Watermark-Bot/issues/17) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+4. 🗣 Commented on [#3](https://github.com/AbirHasan2005/OPRecon/issues/3) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
 5. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Rename-Bot/issues/6) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
 <!--END_SECTION:activity-->
 
