@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/AbirHasan2005/Forward-Client/issues/9) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. ❌ Closed PR [#23](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/23) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. 🗣 Commented on [#15](https://github.com/AbirHasan2005/ShellPhish/issues/15) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-4. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Watermark-Bot/issues/17) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. 🗣 Commented on [#3](https://github.com/AbirHasan2005/OPRecon/issues/3) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
+1. 🗣 Commented on [#21](https://github.com/AbirHasan2005/ShellPhish/issues/21) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. ❗️ Closed issue [#22](https://github.com/AbirHasan2005/ShellPhish/issues/22) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. 🗣 Commented on [#22](https://github.com/AbirHasan2005/ShellPhish/issues/22) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+4. 🗣 Commented on [#9](https://github.com/AbirHasan2005/Forward-Client/issues/9) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. ❌ Closed PR [#23](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/23) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
 
