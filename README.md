@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/TelegramScraper/issues/13) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-2. 🗣 Commented on [#13](https://github.com/AbirHasan2005/TelegramScraper/issues/13) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-3. 🗣 Commented on [#6](https://github.com/AbirHasan2005/ShellPhish/issues/6) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-4. 🗣 Commented on [#21](https://github.com/AbirHasan2005/ShellPhish/issues/21) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-5. ❗️ Closed issue [#22](https://github.com/AbirHasan2005/ShellPhish/issues/22) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+1. 🗣 Commented on [#10](https://github.com/AbirHasan2005/Forward-Client/issues/10) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/TelegramScraper/issues/13) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. 🗣 Commented on [#13](https://github.com/AbirHasan2005/TelegramScraper/issues/13) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/ShellPhish/issues/6) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+5. 🗣 Commented on [#21](https://github.com/AbirHasan2005/ShellPhish/issues/21) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
 <!--END_SECTION:activity-->
 
 
