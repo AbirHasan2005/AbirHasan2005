@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/bughunter0/WebScrapperRoBot/issues/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
-2. 💪 Opened PR [#3](https://github.com/bughunter0/WebScrapperRoBot/pull/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
-3. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/TelegramScraper/pull/14) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. ❌ Closed PR [#19](https://github.com/AbirHasan2005/VideoCompress/pull/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-5. 🗣 Commented on [#19](https://github.com/AbirHasan2005/VideoCompress/issues/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+1. ❌ Closed PR [#6](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/6) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
+2. 🗣 Commented on [#3](https://github.com/bughunter0/WebScrapperRoBot/issues/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
+3. 💪 Opened PR [#3](https://github.com/bughunter0/WebScrapperRoBot/pull/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
+4. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/TelegramScraper/pull/14) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. ❌ Closed PR [#19](https://github.com/AbirHasan2005/VideoCompress/pull/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 <!--END_SECTION:activity-->
 
 
