@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/bughunter0/WebScrapperRoBot/pull/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
-2. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/TelegramScraper/pull/14) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-3. ❌ Closed PR [#19](https://github.com/AbirHasan2005/VideoCompress/pull/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-4. 🗣 Commented on [#19](https://github.com/AbirHasan2005/VideoCompress/issues/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-5. ❗️ Closed issue [#22](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/22) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. 🗣 Commented on [#3](https://github.com/bughunter0/WebScrapperRoBot/issues/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
+2. 💪 Opened PR [#3](https://github.com/bughunter0/WebScrapperRoBot/pull/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
+3. 🎉 Merged PR [#14](https://github.com/AbirHasan2005/TelegramScraper/pull/14) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+4. ❌ Closed PR [#19](https://github.com/AbirHasan2005/VideoCompress/pull/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. 🗣 Commented on [#19](https://github.com/AbirHasan2005/VideoCompress/issues/19) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 <!--END_SECTION:activity-->
 
 
