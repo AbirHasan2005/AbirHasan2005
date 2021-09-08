@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/AbirHasan2005/Watermark-Bot/pull/18) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-2. 🗣 Commented on [#18](https://github.com/AbirHasan2005/Watermark-Bot/issues/18) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-3. ❌ Closed PR [#6](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/6) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
-4. 🗣 Commented on [#3](https://github.com/bughunter0/WebScrapperRoBot/issues/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
-5. 💪 Opened PR [#3](https://github.com/bughunter0/WebScrapperRoBot/pull/3) in [bughunter0/WebScrapperRoBot](https://github.com/bughunter0/WebScrapperRoBot)
+1. ❗️ Closed issue [#15](https://github.com/AbirHasan2005/TelegramScraper/issues/15) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+2. 🗣 Commented on [#15](https://github.com/AbirHasan2005/TelegramScraper/issues/15) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. ❌ Closed PR [#20](https://github.com/AbirHasan2005/VideoCompress/pull/20) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+4. 🗣 Commented on [#20](https://github.com/AbirHasan2005/VideoCompress/issues/20) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. ❌ Closed PR [#18](https://github.com/AbirHasan2005/Watermark-Bot/pull/18) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
 <!--END_SECTION:activity-->
 
 
