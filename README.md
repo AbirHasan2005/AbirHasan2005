@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/AbirHasan2005/ShellPhish/pull/27) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-2. ❌ Closed PR [#7](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/7) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
-3. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Fotmob-Updates-Bot/issues/1) in [AbirHasan2005/Fotmob-Updates-Bot](https://github.com/AbirHasan2005/Fotmob-Updates-Bot)
-4. 🗣 Commented on [#13](https://github.com/AbirHasan2005/TelegramScraper/issues/13) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. ❗️ Closed issue [#10](https://github.com/AbirHasan2005/Forward-Client/issues/10) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+1. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+2. 🗣 Commented on [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+3. 🎉 Merged PR [#27](https://github.com/AbirHasan2005/ShellPhish/pull/27) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+4. ❌ Closed PR [#7](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/7) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
+5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Fotmob-Updates-Bot/issues/1) in [AbirHasan2005/Fotmob-Updates-Bot](https://github.com/AbirHasan2005/Fotmob-Updates-Bot)
 <!--END_SECTION:activity-->
 
 
