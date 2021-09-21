@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-2. 🗣 Commented on [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-3. 🎉 Merged PR [#27](https://github.com/AbirHasan2005/ShellPhish/pull/27) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-4. ❌ Closed PR [#7](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/7) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
-5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Fotmob-Updates-Bot/issues/1) in [AbirHasan2005/Fotmob-Updates-Bot](https://github.com/AbirHasan2005/Fotmob-Updates-Bot)
+1. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. 🗣 Commented on [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+3. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+4. 🗣 Commented on [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. 🎉 Merged PR [#27](https://github.com/AbirHasan2005/ShellPhish/pull/27) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
 <!--END_SECTION:activity-->
 
 
