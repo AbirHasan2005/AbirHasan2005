@@ -90,11 +90,11 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
+- [Make own Telegram Streaming Link Gen Bot | Host on Heroku | Discovery Projects](https://www.youtube.com/watch?v=naBRa4a2mnE)
 - [Telegram PDisk Bot Features Tutorial | Discovery Projects](https://www.youtube.com/watch?v=MYMmdQ9rIh4)
 - [Make Own Telegram Files Rename Bot | Host on Heroku | Discovery Projects](https://www.youtube.com/watch?v=edcOa_cZWg4)
 - [Make Own Telegram Video Merge Bot | Discovery Projects](https://www.youtube.com/watch?v=m4r_SHySGYo)
 - [Make Telegram Messages Forwarder Userbot | Discovery Projects](https://www.youtube.com/watch?v=_xuptk2KUbk)
-- [Make Google Console Project's Credentials JSON & Token Pickle File | Discovery Projects](https://www.youtube.com/watch?v=B0_JY5QuWuE)
 <!-- YOUTUBE:END -->
 - [More Videos](https://m.youtube.com/channel/UCmnA0xMXzSyU9qbCQAG7bJQ/videos) 
 
