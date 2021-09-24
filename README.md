@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-2. 🗣 Commented on [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-4. 🗣 Commented on [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-5. 🎉 Merged PR [#27](https://github.com/AbirHasan2005/ShellPhish/pull/27) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+1. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
+2. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
+3. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🗣 Commented on [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 <!--END_SECTION:activity-->
 
 
