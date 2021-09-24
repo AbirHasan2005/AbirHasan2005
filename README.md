@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
-2. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
-3. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. 🗣 Commented on [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-5. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/VideoCompress/issues/21) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
+2. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
+3. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
+4. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. 🗣 Commented on [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
 
