@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
-2. ❗️ Closed issue [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
-3. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
-4. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-5. 🗣 Commented on [#25](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/25) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Forward-Client/issues/13) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. ❌ Closed PR [#8](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/8) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
+3. 🗣 Commented on [#8](https://github.com/AbirHasan2005/Torrent-Search-Bot/issues/8) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
+4. 🗣 Commented on [#12](https://github.com/AbirHasan2005/Forward-Client/issues/12) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. 🗣 Commented on [#2](https://github.com/AbirHasan2005/instagram-dl/issues/2) in [AbirHasan2005/instagram-dl](https://github.com/AbirHasan2005/instagram-dl)
 <!--END_SECTION:activity-->
 
 
