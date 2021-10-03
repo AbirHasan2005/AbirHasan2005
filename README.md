@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/AbirHasan2005/Forward-Client/issues/12) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. 🗣 Commented on [#12](https://github.com/AbirHasan2005/Forward-Client/issues/12) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Forward-Client/issues/13) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. ❌ Closed PR [#8](https://github.com/AbirHasan2005/Torrent-Search-Bot/pull/8) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
-5. 🗣 Commented on [#8](https://github.com/AbirHasan2005/Torrent-Search-Bot/issues/8) in [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot)
+1. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Forward-Client/issues/13) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. 🎉 Merged PR [#3](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/3) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+3. 🗣 Commented on [#12](https://github.com/AbirHasan2005/Forward-Client/issues/12) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. ❗️ Closed issue [#12](https://github.com/AbirHasan2005/Forward-Client/issues/12) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. 🗣 Commented on [#12](https://github.com/AbirHasan2005/Forward-Client/issues/12) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 
