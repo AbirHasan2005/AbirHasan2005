@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/2) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-2. 🎉 Merged PR [#4](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/4) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-3. 🗣 Commented on [#1](https://github.com/AbirHasan2005/PDisk-Videos-Search/issues/1) in [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search)
-4. ❌ Closed PR [#19](https://github.com/AbirHasan2005/Watermark-Bot/pull/19) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. 🗣 Commented on [#19](https://github.com/AbirHasan2005/Watermark-Bot/issues/19) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+2. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/2) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+3. 🎉 Merged PR [#4](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/4) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/PDisk-Videos-Search/issues/1) in [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search)
+5. ❌ Closed PR [#19](https://github.com/AbirHasan2005/Watermark-Bot/pull/19) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
 <!--END_SECTION:activity-->
 
 
