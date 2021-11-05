@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. 🗣 Commented on [#14](https://github.com/AbirHasan2005/Forward-Client/issues/14) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 🗣 Commented on [#14](https://github.com/AbirHasan2005/Forward-Client/issues/14) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. ❗️ Closed issue [#10](https://github.com/AbirHasan2005/Rename-Bot/issues/10) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-5. 🗣 Commented on [#10](https://github.com/AbirHasan2005/Rename-Bot/issues/10) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+1. ❗️ Closed issue [#29](https://github.com/AbirHasan2005/ShellPhish/issues/29) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. 🗣 Commented on [#29](https://github.com/AbirHasan2005/ShellPhish/issues/29) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. 🗣 Commented on [#6](https://github.com/AbirHasan2005/OPRecon/issues/6) in [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon)
+4. 🗣 Commented on [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+5. 🗣 Commented on [#14](https://github.com/AbirHasan2005/Forward-Client/issues/14) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 
