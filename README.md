@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/5) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-3. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+2. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+3. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/5) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
 4. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-5. 🗣 Commented on [#26](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/26) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
 <!--END_SECTION:activity-->
 
 
