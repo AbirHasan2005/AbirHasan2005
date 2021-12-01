@@ -121,7 +121,7 @@
 [![Nahid Hasan Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 ### Support Group:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Linux%20Repositories-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Bots Channel:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
