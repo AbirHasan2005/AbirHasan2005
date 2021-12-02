@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/AbirHasan2005/Rename-Bot/issues/14) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-3. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+1. ❗️ Closed issue [#26](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/26) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. 🗣 Commented on [#14](https://github.com/AbirHasan2005/Rename-Bot/issues/14) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+3. ❗️ Closed issue [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
 4. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-5. 🗣 Commented on [#12](https://github.com/AbirHasan2005/Rename-Bot/issues/12) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+5. 🗣 Commented on [#13](https://github.com/AbirHasan2005/Rename-Bot/issues/13) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
 <!--END_SECTION:activity-->
 
 
