@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/8) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-2. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/PDisk-Videos-Search/issues/3) in [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search)
-3. ❗️ Closed issue [#8](https://github.com/AbirHasan2005/PDisk-Videos-Search/issues/8) in [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search)
-4. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Rename-Bot/issues/17) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-5. ❗️ Closed issue [#17](https://github.com/AbirHasan2005/Rename-Bot/issues/17) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+1. ❌ Closed PR [#28](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/28) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/Image-Exif/pull/1) in [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif)
+3. 🎉 Merged PR [#8](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/8) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+4. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/PDisk-Videos-Search/issues/3) in [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search)
+5. ❗️ Closed issue [#8](https://github.com/AbirHasan2005/PDisk-Videos-Search/issues/8) in [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search)
 <!--END_SECTION:activity-->
 
 
