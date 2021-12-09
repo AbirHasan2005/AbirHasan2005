@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
 
-## About Meh:
+## About Meh!:
 - Currently learning Python, JavaScript & Bash.
 - A Muslim Boi 😇
 - Sleeping iz Mai Lub 😪
