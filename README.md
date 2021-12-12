@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
-2. 💪 Opened PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
-3. 🗣 Commented on [#18](https://github.com/AbirHasan2005/Rename-Bot/issues/18) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-4. 💪 Opened PR [#810](https://github.com/pyrogram/pyrogram/pull/810) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🗣 Commented on [#20](https://github.com/AbirHasan2005/Watermark-Bot/issues/20) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+1. ❗️ Closed issue [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. ❌ Closed PR [#30](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/30) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+3. 🗣 Commented on [#29](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/29) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
+5. 💪 Opened PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
 <!--END_SECTION:activity-->
 
 
