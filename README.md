@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. ❌ Closed PR [#30](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/30) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. 🗣 Commented on [#29](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/29) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
-5. 💪 Opened PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
+1. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. ❗️ Closed issue [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+3. ❌ Closed PR [#30](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/30) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🗣 Commented on [#29](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/29) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. 🎉 Merged PR [#1](https://github.com/AbirHasan2005/pyrogram/pull/1) in [AbirHasan2005/pyrogram](https://github.com/AbirHasan2005/pyrogram)
 <!--END_SECTION:activity-->
 
 
