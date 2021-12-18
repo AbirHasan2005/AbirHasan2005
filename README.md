@@ -80,8 +80,8 @@
 1. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 2. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 3. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. ❗️ Closed issue [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-5. ❌ Closed PR [#30](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/30) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. ❗️ Closed issue [#15](https://github.com/AbirHasan2005/Forward-Client/issues/15) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
 
