@@ -77,7 +77,7 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. 🗣 Commented on [#825](https://github.com/pyrogram/pyrogram/issues/825) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 2. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 3. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 4. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
