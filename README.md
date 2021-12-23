@@ -77,10 +77,10 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-2. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. 🗣 Commented on [#825](https://github.com/pyrogram/pyrogram/issues/825) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-4. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/ShellPhish/pull/32) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+3. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🗣 Commented on [#825](https://github.com/pyrogram/pyrogram/issues/825) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 5. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
