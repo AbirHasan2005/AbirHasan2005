@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/AbirHasan2005/ShellPhish/issues/31) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-2. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/ShellPhish/pull/32) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-3. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-4. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-5. 🗣 Commented on [#825](https://github.com/pyrogram/pyrogram/issues/825) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. ❌ Closed PR [#24](https://github.com/AbirHasan2005/VideoCompress/pull/24) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+2. 🗣 Commented on [#31](https://github.com/AbirHasan2005/ShellPhish/issues/31) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/ShellPhish/pull/32) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+4. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+5. 🗣 Commented on [#31](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/31) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 <!--END_SECTION:activity-->
 
 
