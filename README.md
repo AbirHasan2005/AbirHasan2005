@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/bisohns/search-engine-parser/issues/143) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-2. ❗️ Closed issue [#14](https://github.com/AbirHasan2005/Rename-Bot/issues/14) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-3. ❌ Closed PR [#24](https://github.com/AbirHasan2005/VideoCompress/pull/24) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-4. 🗣 Commented on [#31](https://github.com/AbirHasan2005/ShellPhish/issues/31) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-5. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/ShellPhish/pull/32) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+1. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/5) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+2. 🗣 Commented on [#143](https://github.com/bisohns/search-engine-parser/issues/143) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+3. ❗️ Closed issue [#14](https://github.com/AbirHasan2005/Rename-Bot/issues/14) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+4. ❌ Closed PR [#24](https://github.com/AbirHasan2005/VideoCompress/pull/24) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. 🗣 Commented on [#31](https://github.com/AbirHasan2005/ShellPhish/issues/31) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
 <!--END_SECTION:activity-->
 
 
