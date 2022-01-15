@@ -77,11 +77,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/AbirHasan2005/VideoCompress/issues/25) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-2. 🎉 Merged PR [#5](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/5) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-3. 🗣 Commented on [#143](https://github.com/bisohns/search-engine-parser/issues/143) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-4. ❗️ Closed issue [#14](https://github.com/AbirHasan2005/Rename-Bot/issues/14) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-5. ❌ Closed PR [#24](https://github.com/AbirHasan2005/VideoCompress/pull/24) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+1. ❌ Closed PR [#27](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/27) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. ❌ Closed PR [#33](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/33) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+3. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/VideoCompress/issues/25) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+4. 🗣 Commented on [#25](https://github.com/AbirHasan2005/VideoCompress/issues/25) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. 🗣 Commented on [#25](https://github.com/AbirHasan2005/VideoCompress/issues/25) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 <!--END_SECTION:activity-->
 
 
