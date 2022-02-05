@@ -1,21 +1,6 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
 
-## About Meh:
-- Currently learning Python, JavaScript & Bash.
-- A Muslim Boi 😇
-- Sleeping iz Mai Lub 😪
-    - But Bery Bezi 🤐
-- Making some Telegram Bots & other iStupid Tools.
-    - Dis makes me Happy 🤗
-- Busy Student 😆
-- Speaking Languages:
-    - Bangla
-    - English
-    - Hindi
-    - Banglish
-    - Hinglish
-    - Emglish
-- [More on Telegram](https://t.me/AbirHasan2005/3)
+## You Know Me?
 
 <p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
 
