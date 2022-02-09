@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/37) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-2. ❌ Closed PR [#38](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/38) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-3. 🗣 Commented on [#40](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/40) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-4. ❌ Closed PR [#26](https://github.com/AbirHasan2005/VideoCompress/pull/26) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-5. ❌ Closed PR [#11](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/11) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+1. ❗️ Opened issue [#53](https://github.com/iTaybb/pySmartDL/issues/53) in [iTaybb/pySmartDL](https://github.com/iTaybb/pySmartDL)
+2. 🗣 Commented on [#37](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/37) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+3. ❌ Closed PR [#38](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/38) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+4. 🗣 Commented on [#40](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/40) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+5. ❌ Closed PR [#26](https://github.com/AbirHasan2005/VideoCompress/pull/26) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
 <!--END_SECTION:activity-->
 
 
