@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-2. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Search-Bot/issues/1) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-3. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-4. 🗣 Commented on [#21](https://github.com/AbirHasan2005/Watermark-Bot/issues/21) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. ❗️ Opened issue [#53](https://github.com/iTaybb/pySmartDL/issues/53) in [iTaybb/pySmartDL](https://github.com/iTaybb/pySmartDL)
+1. 🎉 Merged PR [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+2. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+3. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Search-Bot/issues/1) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
+4. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+5. 🗣 Commented on [#21](https://github.com/AbirHasan2005/Watermark-Bot/issues/21) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
 <!--END_SECTION:activity-->
 
 
