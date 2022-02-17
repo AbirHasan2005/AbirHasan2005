@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/AbirHasan2005/Message-Search-Bot/pull/2) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-2. 🎉 Merged PR [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-3. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
-4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Search-Bot/issues/1) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-5. 🗣 Commented on [#9](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/9) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+1. ❌ Closed PR [#27](https://github.com/AbirHasan2005/VideoCompress/pull/27) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+2. ❌ Closed PR [#2](https://github.com/AbirHasan2005/Message-Search-Bot/pull/2) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
+3. 🎉 Merged PR [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+4. 🗣 Commented on [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/issues/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+5. 🗣 Commented on [#1](https://github.com/AbirHasan2005/Message-Search-Bot/issues/1) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
 <!--END_SECTION:activity-->
 
 
