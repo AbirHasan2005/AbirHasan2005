@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/AbirHasan2005/Watermark-Bot/issues/22) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-2. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Forward-Client/issues/17) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. ❌ Closed PR [#27](https://github.com/AbirHasan2005/VideoCompress/pull/27) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-4. ❌ Closed PR [#2](https://github.com/AbirHasan2005/Message-Search-Bot/pull/2) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-5. 🎉 Merged PR [#6](https://github.com/AbirHasan2005/Emoji-Captcha-Bot/pull/6) in [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+1. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Forward-Client/issues/17) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+2. 🗣 Commented on [#22](https://github.com/AbirHasan2005/Watermark-Bot/issues/22) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+3. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Forward-Client/issues/17) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. ❌ Closed PR [#27](https://github.com/AbirHasan2005/VideoCompress/pull/27) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+5. ❌ Closed PR [#2](https://github.com/AbirHasan2005/Message-Search-Bot/pull/2) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
 <!--END_SECTION:activity-->
 
 
