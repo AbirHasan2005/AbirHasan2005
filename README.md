@@ -62,10 +62,10 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-2. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-3. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Forward-Client/issues/17) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. 🗣 Commented on [#22](https://github.com/AbirHasan2005/Watermark-Bot/issues/22) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+1. ❗️ Closed issue [#33](https://github.com/AbirHasan2005/ShellPhish/issues/33) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+2. ❌ Closed PR [#28](https://github.com/AbirHasan2005/VideoCompress/pull/28) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+3. 🗣 Commented on [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+4. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 5. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Forward-Client/issues/17) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 <!--END_SECTION:activity-->
 
