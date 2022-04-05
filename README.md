@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#33](https://github.com/AbirHasan2005/ShellPhish/issues/33) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
-2. ❌ Closed PR [#28](https://github.com/AbirHasan2005/VideoCompress/pull/28) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
-3. 🗣 Commented on [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. 🗣 Commented on [#17](https://github.com/AbirHasan2005/Forward-Client/issues/17) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+1. 🗣 Commented on [#41](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/41) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. ❗️ Closed issue [#33](https://github.com/AbirHasan2005/ShellPhish/issues/33) in [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish)
+3. ❌ Closed PR [#28](https://github.com/AbirHasan2005/VideoCompress/pull/28) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+4. 🗣 Commented on [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. ❗️ Closed issue [#20](https://github.com/AbirHasan2005/TelegramScraper/issues/20) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 
