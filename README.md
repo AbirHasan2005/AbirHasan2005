@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/AbirHasan2005/Forward-Client/issues/22) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. 💪 Opened PR [#24](https://github.com/FayasNoushad/GoFile-Bot/pull/24) in [FayasNoushad/GoFile-Bot](https://github.com/FayasNoushad/GoFile-Bot)
-3. 🗣 Commented on [#24](https://github.com/AbirHasan2005/TelegramScraper/issues/24) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. ❗️ Closed issue [#24](https://github.com/AbirHasan2005/TelegramScraper/issues/24) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. ❗️ Closed issue [#30](https://github.com/AbirHasan2005/VideoCompress/issues/30) in [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress)
+1. ❗️ Closed issue [#41](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/41) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+2. ❗️ Closed issue [#22](https://github.com/AbirHasan2005/Forward-Client/issues/22) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+3. 💪 Opened PR [#24](https://github.com/FayasNoushad/GoFile-Bot/pull/24) in [FayasNoushad/GoFile-Bot](https://github.com/FayasNoushad/GoFile-Bot)
+4. 🗣 Commented on [#24](https://github.com/AbirHasan2005/TelegramScraper/issues/24) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. ❗️ Closed issue [#24](https://github.com/AbirHasan2005/TelegramScraper/issues/24) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 
