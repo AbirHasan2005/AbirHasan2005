@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/Message-Search-Bot/issues/3) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-2. 🗣 Commented on [#3](https://github.com/AbirHasan2005/Message-Search-Bot/issues/3) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-3. 🗣 Commented on [#23](https://github.com/AbirHasan2005/Watermark-Bot/issues/23) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-4. 🗣 Commented on [#12](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/12) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-5. ❗️ Closed issue [#41](https://github.com/AbirHasan2005/PyroFilesStoreBot/issues/41) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
+1. ❌ Closed PR [#16](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/16) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+2. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/Message-Search-Bot/issues/3) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
+3. 🗣 Commented on [#3](https://github.com/AbirHasan2005/Message-Search-Bot/issues/3) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
+4. 🗣 Commented on [#23](https://github.com/AbirHasan2005/Watermark-Bot/issues/23) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+5. 🗣 Commented on [#12](https://github.com/AbirHasan2005/VideoMerge-Bot/issues/12) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
 <!--END_SECTION:activity-->
 
 
