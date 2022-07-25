@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/15) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-2. ❌ Closed PR [#16](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/16) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-3. ❗️ Closed issue [#3](https://github.com/AbirHasan2005/Message-Search-Bot/issues/3) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-4. 🗣 Commented on [#3](https://github.com/AbirHasan2005/Message-Search-Bot/issues/3) in [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot)
-5. 🗣 Commented on [#23](https://github.com/AbirHasan2005/Watermark-Bot/issues/23) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+1. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/Rename-Bot/issues/21) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+2. ❗️ Closed issue [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+3. 🗣 Commented on [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
+4. ❌ Closed PR [#15](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/15) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+5. ❌ Closed PR [#16](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/16) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
 <!--END_SECTION:activity-->
 
 
