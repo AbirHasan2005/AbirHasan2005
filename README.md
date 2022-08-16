@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/AbirHasan2005/Rename-Bot/issues/21) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/Rename-Bot/issues/21) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-3. ❗️ Closed issue [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-4. 🗣 Commented on [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-5. ❌ Closed PR [#15](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/15) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
+1. ❗️ Closed issue [#31](https://github.com/AbirHasan2005/TelegramScraper/issues/31) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+2. 🗣 Commented on [#31](https://github.com/AbirHasan2005/TelegramScraper/issues/31) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. 🗣 Commented on [#21](https://github.com/AbirHasan2005/Rename-Bot/issues/21) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+4. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/Rename-Bot/issues/21) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
+5. ❗️ Closed issue [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
 <!--END_SECTION:activity-->
 
 
