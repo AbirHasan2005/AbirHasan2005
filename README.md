@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-2. 🗣 Commented on [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/TelegramScraper/pull/32) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. ❗️ Closed issue [#19](https://github.com/AbirHasan2005/TelegramScraper/issues/19) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. 🗣 Commented on [#19](https://github.com/AbirHasan2005/TelegramScraper/issues/19) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Image-Exif/issues/2) in [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif)
+2. ❗️ Closed issue [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+3. 🗣 Commented on [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+4. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/TelegramScraper/pull/32) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. ❗️ Closed issue [#19](https://github.com/AbirHasan2005/TelegramScraper/issues/19) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 <!--END_SECTION:activity-->
 
 
