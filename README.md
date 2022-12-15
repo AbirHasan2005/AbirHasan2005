@@ -62,8 +62,8 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Image-Exif/issues/2) in [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif)
-2. ❗️ Closed issue [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+1. 🎉 Merged PR [#7](https://github.com/AbirHasan2005/AbirHasan2005/pull/7) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+2. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Image-Exif/issues/2) in [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif)
 3. 🗣 Commented on [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
 4. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/TelegramScraper/pull/32) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 5. ❗️ Closed issue [#19](https://github.com/AbirHasan2005/TelegramScraper/issues/19) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
