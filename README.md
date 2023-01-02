@@ -62,11 +62,11 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-2. 🗣 Commented on [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-3. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/TelegramScraper/issues/25) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-4. ❗️ Opened issue [#1166](https://github.com/pyrogram/pyrogram/issues/1166) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🎉 Merged PR [#7](https://github.com/AbirHasan2005/AbirHasan2005/pull/7) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+1. ❗️ Closed issue [#33](https://github.com/AbirHasan2005/TelegramScraper/issues/33) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+2. ❗️ Closed issue [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+3. 🗣 Commented on [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+4. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/TelegramScraper/issues/25) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+5. ❗️ Opened issue [#1166](https://github.com/pyrogram/pyrogram/issues/1166) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
 
 
