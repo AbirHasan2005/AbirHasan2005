@@ -108,8 +108,13 @@
 ### Support Group:
 <a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-### Telegram Bots Channel:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+## Buy Me A Rolls Royce:
+Feel free to buy me a Rolls Royce
+- `USDT  (TRC20) ` - `TVP9ZtcJpSu1TA3anby5njhUWyXkQg7cJJ`
+- `BTC  (Bitcoin)` - `1Jf3GivZ4rSJusQYAMsPLy3mmQCEayL4w8`
+- `ETH   (ERC20) ` - `0x732cdc4e8f9a911032195d909a988bb392b06ae3`
+- `BNB   (BEP20) ` - `0x732cdc4e8f9a911032195d909a988bb392b06ae3`
+- `DAI  (Polygon)` - `0x732cdc4e8f9a911032195d909a988bb392b06ae3`
 
 [twitter]: https://twitter.com/AbirHasan2005
 [instagram]: https://instagram.com/AbirHasan2005
