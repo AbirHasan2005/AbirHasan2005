@@ -62,8 +62,8 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/usernein/pyromod/issues/21) in [usernein/pyromod](https://github.com/usernein/pyromod)
-2. ❗️ Closed issue [#33](https://github.com/AbirHasan2005/TelegramScraper/issues/33) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
+1. ❗️ Opened issue [#1249](https://github.com/pyrogram/pyrogram/issues/1249) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 🗣 Commented on [#21](https://github.com/usernein/pyromod/issues/21) in [usernein/pyromod](https://github.com/usernein/pyromod)
 3. ❗️ Closed issue [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 4. 🗣 Commented on [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 5. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/TelegramScraper/issues/25) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
