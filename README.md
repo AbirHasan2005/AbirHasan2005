@@ -63,7 +63,7 @@
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#51](https://github.com/AbirHasan2005/PyroFilesStoreBot/pull/51) in [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot)
-2. ❗️ Opened issue [#1249](https://github.com/pyrogram/pyrogram/issues/1249) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. ❗ Opened issue [#1249](https://github.com/pyrogram/pyrogram/issues/1249) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 3. 🗣 Commented on [#21](https://github.com/usernein/pyromod/issues/21) in [usernein/pyromod](https://github.com/usernein/pyromod)
 4. 🗣 Commented on [#23](https://github.com/AbirHasan2005/TelegramScraper/issues/23) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
 5. ❗️ Closed issue [#25](https://github.com/AbirHasan2005/TelegramScraper/issues/25) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
