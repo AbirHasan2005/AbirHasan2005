@@ -56,9 +56,6 @@
 
 </details>
 
-### API by Me:
-<p align="left"> <a href="https://api.abirhasan.wtf" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
-
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
